@@ -4,7 +4,7 @@ Terraform module which creates Secure MySQL RDS resources on AWS.
 
 ## Description
 
-Provision [RDS DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.DBInstance.html),
+Provision [RDS DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.DBInstance.html)
 
 This module provides recommended settings for more security:
 
